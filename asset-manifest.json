@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Microbiology-Qwis/static/css/main.30db875e.css",
-    "main.js": "/Microbiology-Qwis/static/js/main.5f9c63dc.js",
+    "main.js": "/Microbiology-Qwis/static/js/main.7eb69bfb.js",
     "index.html": "/Microbiology-Qwis/index.html",
     "main.30db875e.css.map": "/Microbiology-Qwis/static/css/main.30db875e.css.map",
-    "main.5f9c63dc.js.map": "/Microbiology-Qwis/static/js/main.5f9c63dc.js.map"
+    "main.7eb69bfb.js.map": "/Microbiology-Qwis/static/js/main.7eb69bfb.js.map"
   },
   "entrypoints": [
     "static/css/main.30db875e.css",
-    "static/js/main.5f9c63dc.js"
+    "static/js/main.7eb69bfb.js"
   ]
 }
